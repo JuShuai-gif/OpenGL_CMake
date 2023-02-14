@@ -1,0 +1,37 @@
+{
+    "version": "2.0.0",
+    "options": {
+        "cwd": "${workspaceFolder}/build"// 命令所在文件夹
+    },
+    "tasks": [
+        {
+            "type": "shell",
+            "label": "cmake",
+            "command":"cmake",
+            "args": [
+                ".."
+            ]
+        },
+        {
+            "label": "make",
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            //这个命令是Windows的执行命令
+            //Linux是make命令
+            "command":"mingw32-make.exe",
+            "args": [
+            ]
+        },
+        {
+            // 该处的build对应launch中的"preLaunchTask"
+            // 下面的依赖对应的是上方的label的cmake、make
+            "label": "build",
+            "dependsOn":[
+                "cmake",
+                "make"
+            ],
+        },
+    ]
+}

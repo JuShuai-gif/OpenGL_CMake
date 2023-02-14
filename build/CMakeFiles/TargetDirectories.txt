@@ -1,0 +1,4 @@
+C:/Users/GHR/Desktop/OpenGL_Cmake/build/CMakeFiles/opengl-mingw-boilerplate.dir
+C:/Users/GHR/Desktop/OpenGL_Cmake/build/CMakeFiles/glad.dir
+C:/Users/GHR/Desktop/OpenGL_Cmake/build/CMakeFiles/edit_cache.dir
+C:/Users/GHR/Desktop/OpenGL_Cmake/build/CMakeFiles/rebuild_cache.dir
