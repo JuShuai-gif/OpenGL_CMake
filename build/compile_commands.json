@@ -1,0 +1,56 @@
+[
+{
+  "directory": "E:/C++/OpenGL_CMake/build",
+  "command": "C:\\mingw64\\bin\\gcc.exe  @CMakeFiles/glad.dir/includes_C.rsp -g -o CMakeFiles\\glad.dir\\external\\glad\\src\\glad.c.obj -c E:\\C++\\OpenGL_CMake\\external\\glad\\src\\glad.c",
+  "file": "E:/C++/OpenGL_CMake/external/glad/src/glad.c",
+  "output": "CMakeFiles/glad.dir/external/glad/src/glad.c.obj"
+},
+{
+  "directory": "E:/C++/OpenGL_CMake/build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DGLFW_INCLUDE_NONE @CMakeFiles/opengl-mingw-boilerplate.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\opengl-mingw-boilerplate.dir\\src\\main.cpp.obj -c E:\\C++\\OpenGL_CMake\\src\\main.cpp",
+  "file": "E:/C++/OpenGL_CMake/src/main.cpp",
+  "output": "CMakeFiles/opengl-mingw-boilerplate.dir/src/main.cpp.obj"
+},
+{
+  "directory": "E:/C++/OpenGL_CMake/build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DGLFW_INCLUDE_NONE @CMakeFiles/opengl-mingw-boilerplate.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\opengl-mingw-boilerplate.dir\\external\\imgui\\imgui.cpp.obj -c E:\\C++\\OpenGL_CMake\\external\\imgui\\imgui.cpp",
+  "file": "E:/C++/OpenGL_CMake/external/imgui/imgui.cpp",
+  "output": "CMakeFiles/opengl-mingw-boilerplate.dir/external/imgui/imgui.cpp.obj"
+},
+{
+  "directory": "E:/C++/OpenGL_CMake/build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DGLFW_INCLUDE_NONE @CMakeFiles/opengl-mingw-boilerplate.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\opengl-mingw-boilerplate.dir\\external\\imgui\\imgui_demo.cpp.obj -c E:\\C++\\OpenGL_CMake\\external\\imgui\\imgui_demo.cpp",
+  "file": "E:/C++/OpenGL_CMake/external/imgui/imgui_demo.cpp",
+  "output": "CMakeFiles/opengl-mingw-boilerplate.dir/external/imgui/imgui_demo.cpp.obj"
+},
+{
+  "directory": "E:/C++/OpenGL_CMake/build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DGLFW_INCLUDE_NONE @CMakeFiles/opengl-mingw-boilerplate.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\opengl-mingw-boilerplate.dir\\external\\imgui\\imgui_draw.cpp.obj -c E:\\C++\\OpenGL_CMake\\external\\imgui\\imgui_draw.cpp",
+  "file": "E:/C++/OpenGL_CMake/external/imgui/imgui_draw.cpp",
+  "output": "CMakeFiles/opengl-mingw-boilerplate.dir/external/imgui/imgui_draw.cpp.obj"
+},
+{
+  "directory": "E:/C++/OpenGL_CMake/build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DGLFW_INCLUDE_NONE @CMakeFiles/opengl-mingw-boilerplate.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\opengl-mingw-boilerplate.dir\\external\\imgui\\imgui_impl_glfw.cpp.obj -c E:\\C++\\OpenGL_CMake\\external\\imgui\\imgui_impl_glfw.cpp",
+  "file": "E:/C++/OpenGL_CMake/external/imgui/imgui_impl_glfw.cpp",
+  "output": "CMakeFiles/opengl-mingw-boilerplate.dir/external/imgui/imgui_impl_glfw.cpp.obj"
+},
+{
+  "directory": "E:/C++/OpenGL_CMake/build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DGLFW_INCLUDE_NONE @CMakeFiles/opengl-mingw-boilerplate.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\opengl-mingw-boilerplate.dir\\external\\imgui\\imgui_impl_opengl3.cpp.obj -c E:\\C++\\OpenGL_CMake\\external\\imgui\\imgui_impl_opengl3.cpp",
+  "file": "E:/C++/OpenGL_CMake/external/imgui/imgui_impl_opengl3.cpp",
+  "output": "CMakeFiles/opengl-mingw-boilerplate.dir/external/imgui/imgui_impl_opengl3.cpp.obj"
+},
+{
+  "directory": "E:/C++/OpenGL_CMake/build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DGLFW_INCLUDE_NONE @CMakeFiles/opengl-mingw-boilerplate.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\opengl-mingw-boilerplate.dir\\external\\imgui\\imgui_tables.cpp.obj -c E:\\C++\\OpenGL_CMake\\external\\imgui\\imgui_tables.cpp",
+  "file": "E:/C++/OpenGL_CMake/external/imgui/imgui_tables.cpp",
+  "output": "CMakeFiles/opengl-mingw-boilerplate.dir/external/imgui/imgui_tables.cpp.obj"
+},
+{
+  "directory": "E:/C++/OpenGL_CMake/build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DGLFW_INCLUDE_NONE @CMakeFiles/opengl-mingw-boilerplate.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\opengl-mingw-boilerplate.dir\\external\\imgui\\imgui_widgets.cpp.obj -c E:\\C++\\OpenGL_CMake\\external\\imgui\\imgui_widgets.cpp",
+  "file": "E:/C++/OpenGL_CMake/external/imgui/imgui_widgets.cpp",
+  "output": "CMakeFiles/opengl-mingw-boilerplate.dir/external/imgui/imgui_widgets.cpp.obj"
+}
+]

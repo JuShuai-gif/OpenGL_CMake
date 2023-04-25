@@ -33,7 +33,7 @@ add_executable(${PROJECT_NAME} ${srcs} ${IMGUI_SRC})
 # 包含头文件目录
 target_include_directories(${PROJECT_NAME} 
     PUBLIC 
-        ${PROJECT_SOURCE_DIR}/include/UI
+        ${PROJECT_SOURCE_DIR}/include
         ${PROJECT_SOURCE_DIR}/external/imgui
 )
 # 设置语言标准

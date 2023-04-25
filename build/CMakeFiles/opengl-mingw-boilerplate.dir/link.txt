@@ -1,0 +1,3 @@
+D:\Software\NewInstall\CMake\bin\cmake.exe -E rm -f CMakeFiles\opengl-mingw-boilerplate.dir/objects.a
+C:\mingw64\bin\ar.exe qc CMakeFiles\opengl-mingw-boilerplate.dir/objects.a @CMakeFiles\opengl-mingw-boilerplate.dir\objects1.rsp
+C:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\opengl-mingw-boilerplate.dir/objects.a -Wl,--no-whole-archive -o E:\C++\OpenGL_CMake\bin\opengl-mingw-boilerplate.exe -Wl,--out-implib,E:\C++\OpenGL_CMake\bin\libopengl-mingw-boilerplate.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\opengl-mingw-boilerplate.dir\linkLibs.rsp
